@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1 Start Scene.unity
+    guid: 563d5a5f7f1e5e24e9b07360e68aff3a
+  - enabled: 1
+    path: Assets/Scenes/VocabularyLearnMode.unity
+    guid: 48e870e976301874f89d2e6b851f85c2
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8ca0166163ebe034e9be0e01db5cc557, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 114ace86dd352c043997abbbe39e44e5, type: 2}
